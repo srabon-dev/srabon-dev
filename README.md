@@ -1,30 +1,13 @@
-<!-- Title -->
-<h1 align="center">👋 Hi there, I'm Srabon</h1>
+# 💫 About Me:
+Hii, I am SRABON<br><br>Flutter App Developer | Anime Enthusiast | Content Creator<br><br>👨‍💻 Passionate about crafting seamless experiences through Flutter apps.<br><br>📱 Proficient in Dart, Java for Android development.<br><br>🎨 Enjoys exploring the intersection of design and technology to create intuitive user interfaces.<br><br>🎮 Avid anime fan, finding inspiration and relaxation in the world of animated storytelling.<br><br>👨‍👩‍👧‍👦 Family-oriented individual, finding joy in spending quality time with loved ones.<br><br>🎥 Creator of engaging content on YouTube, sharing insights into app development and tech culture.<br><br>💡 Knowledgeable about custom ROM development, continuously expanding expertise in mobile technology.<br><br>🌟 Open to collaboration and eager to connect with fellow developers and enthusiasts.
 
-<!-- Introduction -->
-<p align="center">
-  A passionate Flutter Developer and Software Engineer 🚀<br>
-  <a href="https://yourwebsite.com">Portfolio</a> •
-  <a href="mailto:srabonray.dev@gmail.com">Contact</a> •
-  <a href="https://www.linkedin.com/in/srabonray-dev">LinkedIn</a>
-  <a href="https://codecanyon.net/user/guardianmap">Codecanyon</a>
-</p>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srabonray-dev)
 
-<!-- About Me -->
-<h2 align="center">About Me</h2>
 
-<p align="center">
-  👨‍💻 I'm currently learning Flutter & Dart<br>
-  💬 Ask me about Flutter or any tech-related stuff<br>
-  😄 Pronouns: He/Him
-</p>
-
----
-
-<!-- Skills -->
-<h2 align="center">Languages and Tools</h2>
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
 <p align="center">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
@@ -38,26 +21,22 @@
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
 </p>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 ---
+[![](https://visitcount.itsvg.in/api?id=rafsanopi&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Connect with Me -->
-<h2 align="center">Connect with Me</h2>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<!-- Introduction -->
 <p align="center">
-    <a href="https://srabonray.dev"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="yourwebsite.com" width="40" height="40"/></a>
-    <a href="https://www.linkedin.com/in/srabonray-dev"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/></a>
-    <a href="https://wa.link/xnw98v"><img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="whatsapp" width="40" height="40"/></a>
+  A passionate Flutter Developer and Software Engineer 🚀<br>
+  <a href="https://yourwebsite.com">Portfolio</a> •
+  <a href="mailto:srabonray.dev@gmail.com">Contact</a> •
+  <a href="https://www.linkedin.com/in/srabonray-dev">LinkedIn</a>
+  <a href="https://codecanyon.net/user/guardianmap">Codecanyon</a>
 </p>
-
----
----
-
-<!-- Footer -->
-<p align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=srabon-dev.travel-note" alt="Visitors">
-</p>
-
----
 
 <!-- Signature -->
 <p align="center">
