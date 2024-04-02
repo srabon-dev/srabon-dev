@@ -10,11 +10,6 @@
   <a href="https://codecanyon.net/user/guardianmap">Codecanyon</a>
 </p>
 
-<!-- Header Image -->
-<div align="center">
-    <img src="https://media.licdn.com/dms/image/D5635AQFvPmhpVpfJRw/profile-framedphoto-shrink_400_400/0/1690054512310?e=1712646000&v=beta&t=CUmAuCZyiyDZwMMz6nTeVkicOCS63TP3QyHMwYG6jQU" width="100%" height="auto">
-</div>
-
 ---
 
 <!-- About Me -->
