@@ -13,7 +13,8 @@ Building impactful solutions is my passion, and **clean code** is my obsession.
 - 🗄️ Expertise in local databases like **SQLite**, **Hive**, and **SharedPreferences**.
 - 🎯 Focused on **writing Flutter unit, widget, and integration tests**.
 - 🌍 Integrated **Google Maps** and **Sensor APIs** (gyroscope, accelerometer, etc.).
-- 🎥 Specialized in **audio/video calling**, **live streaming**, and **real-time chats** using **WebRTC**, **Socket.IO**, and **100ms**.
+- 🎥 Specialized in **audio/video calling**, **live streaming**, and **real-time chats** using **WebRTC**, **100ms**, **Agora**, and **ZegoCloud**.
+- 📩 Integrated **Push Notifications** via **Firebase Cloud Messaging** and **OneSignal**.
 - 💬 Built apps for **group chat**, **single chat**, **random chat**, and **random video calls**.
 - 🚀 Implemented **CI/CD pipelines** to **auto-publish Android/iOS apps** via **GitHub Actions**, **Codemagic**, and **Bitrise**.
 - ✨ Open-source enthusiast and lifelong learner.
@@ -41,12 +42,18 @@ Building impactful solutions is my passion, and **clean code** is my obsession.
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101.svg?style=flat&logo=socket.io&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333.svg?style=flat&logo=webrtc&logoColor=white)
 ![100ms](https://img.shields.io/badge/100ms-5F4B8B.svg?style=flat&logo=100ms&logoColor=white)
+![Agora](https://img.shields.io/badge/Agora-0099E5.svg?style=flat&logo=agora&logoColor=white)
+![ZegoCloud](https://img.shields.io/badge/ZegoCloud-5F4B8B.svg?style=flat&logo=zego&logoColor=white)
 
 ### 🗺️ Integrations
 ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4.svg?style=flat&logo=google-maps&logoColor=white)
 ![Sensors API](https://img.shields.io/badge/Sensors-FF6F00.svg?style=flat&logo=google&logoColor=white)
 
-### ⚙️ DevOps & CI/CD
+### 📩 Push Notification
+![Firebase Cloud Messaging](https://img.shields.io/badge/FCM-FFCA28.svg?style=flat&logo=firebase&logoColor=black)
+![OneSignal](https://img.shields.io/badge/OneSignal-EA0000.svg?style=flat&logo=onesignal&logoColor=white)
+
+### ⚙️ & CI/CD
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=flat&logo=github-actions&logoColor=white)
 ![Codemagic](https://img.shields.io/badge/Codemagic-35256A.svg?style=flat&logo=codemagic&logoColor=white)
 ![Bitrise](https://img.shields.io/badge/Bitrise-683D87.svg?style=flat&logo=bitrise&logoColor=white)
@@ -65,12 +72,8 @@ Building impactful solutions is my passion, and **clean code** is my obsession.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=srabon-dev&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=srabon-dev&theme=radical" />
-</p>
-
-<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srabon-dev&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=srabon-dev&theme=radical" />
 </p>
 
 ---
